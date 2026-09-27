@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BMF Assistant Briefings</title>
+    <link>https://raw.githubusercontent.com/furniturenews/bmf-briefings-ac3a99bf4c1c94a5edc1ff8d/main/feed.xml</link>
+    <language>en-us</language>
+    <copyright>Unlisted personal feed — do not share</copyright>
+    <description>Private highlights podcasts for Bryan. Unlisted secret URL — not searchable.</description>
+    <itunes:author>BMF Assistant</itunes:author>
+    <itunes:summary>Highlights podcasts from BMF Assistant</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Business"/>
+    <itunes:image href="https://raw.githubusercontent.com/furniturenews/bmf-briefings-ac3a99bf4c1c94a5edc1ff8d/main/cover.jpg"/>
+    <image>
+      <url>https://raw.githubusercontent.com/furniturenews/bmf-briefings-ac3a99bf4c1c94a5edc1ff8d/main/cover.jpg</url>
+      <title>BMF Assistant Briefings</title>
+      <link>https://raw.githubusercontent.com/furniturenews/bmf-briefings-ac3a99bf4c1c94a5edc1ff8d/main/feed.xml</link>
+    </image>
+    <atom:link href="https://raw.githubusercontent.com/furniturenews/bmf-briefings-ac3a99bf4c1c94a5edc1ff8d/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mac Mini M5 Pro vs M6</title>
+      <description>Highlights from Geeky Gadgets: M6 vs M5 Pro specs, benchmarks, and who each model is for.</description>
+      <pubDate>Sun, 27 Sep 2026 17:52:51 -0500</pubDate>
+      <guid isPermaLink="false">2026-09-27-mac-mini-m5-pro-vs-m6</guid>
+      <enclosure url="https://raw.githubusercontent.com/furniturenews/bmf-briefings-ac3a99bf4c1c94a5edc1ff8d/main/episodes/2026-09-27-mac-mini-m5-pro-vs-m6.mp3" length="1066464" type="audio/mpeg"/>
+      <itunes:image href="https://raw.githubusercontent.com/furniturenews/bmf-briefings-ac3a99bf4c1c94a5edc1ff8d/main/cover.jpg"/>
+      <itunes:duration>178</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
